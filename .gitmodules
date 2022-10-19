@@ -1,0 +1,3 @@
+[submodule "htdocs/theme/md-ux"]
+	path = htdocs/theme/md-ux
+	url = https://github.com/cmfpmatik/theme-dolibarr-md-ux.git
